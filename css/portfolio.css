@@ -276,10 +276,9 @@ footer{
 	top: 0;
 	left: 0;
 	height: 640px;
-	background-image: url("../images/heart_background_purple.png");
+	background-image: url("../images/background_pattern_purple.png");
 	background-position: center;
-	background-repeat: none;
-	background-size: cover;
+	background-repeat: repeat;
 	z-index: -1;
 }
 

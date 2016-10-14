@@ -286,10 +286,9 @@ form{
 	top: 0;
 	left: 0;
 	height: 640px;
-	background-image: url("../images/heart_background_gray.png");
+	background-image: url("../images/background_pattern_gray.png");
 	background-position: center;
-	background-repeat: none;
-	background-size: cover;
+	background-repeat: repeat;
 	z-index: -1;
 }
 
